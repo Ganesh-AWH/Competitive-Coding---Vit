@@ -1,0 +1,77 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "AddTwoNumber",
+            "request": "launch",
+            "mainClass": "AddTwoNumber",
+            "projectName": "CAT-2_baf5ee4d"
+        },
+        {
+            "type": "java",
+            "name": "Demo",
+            "request": "launch",
+            "mainClass": "Demo",
+            "projectName": "CAT-2_baf5ee4d"
+        },
+        {
+            "type": "java",
+            "name": "LongestValidParanthesis",
+            "request": "launch",
+            "mainClass": "LongestValidParanthesis",
+            "projectName": "CAT-2_baf5ee4d"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "CAT-2_baf5ee4d"
+        },
+        {
+            "type": "java",
+            "name": "MyQueue",
+            "request": "launch",
+            "mainClass": "MyQueue",
+            "projectName": "CAT-2_baf5ee4d"
+        },
+        {
+            "type": "java",
+            "name": "MyStack",
+            "request": "launch",
+            "mainClass": "MyStack",
+            "projectName": "CAT-2_baf5ee4d"
+        },
+        {
+            "type": "java",
+            "name": "RPN",
+            "request": "launch",
+            "mainClass": "RPN",
+            "projectName": "CAT-2_baf5ee4d"
+        },
+        {
+            "type": "java",
+            "name": "ValidParanthesis",
+            "request": "launch",
+            "mainClass": "ValidParanthesis",
+            "projectName": "CAT-2_baf5ee4d"
+        },
+        {
+            "type": "java",
+            "name": "ValidateStackSequence",
+            "request": "launch",
+            "mainClass": "ValidateStackSequence",
+            "projectName": "CAT-2_baf5ee4d"
+        }
+    ]
+}

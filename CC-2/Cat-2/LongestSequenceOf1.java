@@ -24,8 +24,6 @@ public class LongestSequenceOf1{
                 count = 0;
             }
         }
-
         return max;
     }
-
 }
